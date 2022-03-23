@@ -2,10 +2,10 @@ name: "CI"
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
     tags: ["v*"]
   pull_request:
-    branches: ["master"]
+    branches: ["main"]
 
 env:
   COMMITIZEN_VERSION: "2.15.1"
