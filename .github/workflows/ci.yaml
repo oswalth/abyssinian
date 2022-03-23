@@ -1,0 +1,58 @@
+name: "CI"
+
+on:
+  push:
+    branches: ["master"]
+    tags: ["v*"]
+  pull_request:
+    branches: ["master"]
+
+env:
+  COMMITIZEN_VERSION: "2.15.1"
+  MARKUPSAFE_VERSION: "2.0.1"
+  PYTHON_VERSION: "3.10.1"
+
+jobs:
+  commitizen:
+    name: "Check commit message"
+
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - uses: "actions/checkout@v2.4.0"
+
+      - name: "Fetch ${{ github.base_ref }}"
+        if: "github.event_name == 'pull_request'"
+        run: |
+          set -euo pipefail
+
+          git fetch --depth=1 origin +refs/heads/${{ github.base_ref }}:refs/heads/${{ github.base_ref }}
+          git fetch --prune --unshallow
+
+      - name: "Install Python"
+        if: "!startsWith(github.ref, 'refs/tags/')"
+        uses: "actions/setup-python@v3"
+        with:
+          python-version: "${{ env.PYTHON_VERSION }}"
+
+      - name: "Install commitizen"
+        if: "!startsWith(github.ref, 'refs/tags/')"
+        run: "python3 -m pip install commitizen==${{ env.COMMITIZEN_VERSION }}"
+
+      - name: "Install Markupsafe"
+        if: "!startsWith(github.ref, 'refs/tags/')"
+        run: "python3 -m pip install MarkupSafe==${{ env.MARKUPSAFE_VERSION }}"
+
+      - name: "Check pull request commit messages"
+        if: "github.event_name == 'pull_request'"
+        run: |
+          set -euo pipefail
+
+          for commit in $(git log --pretty=%H ${{ github.base_ref }}..HEAD); do
+            echo "Checking commit: ${commit}"
+            cz check -m "$(git log -1 --pretty=%B ${commit})"
+          done
+
+      - name: "Check last commit message"
+        if: "github.event_name != 'pull_request' && !startsWith(github.ref, 'refs/tags/')"
+        run: 'cz check -m "$(git log -1 --pretty=%B)"'
