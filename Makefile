@@ -25,3 +25,5 @@ bash:
 ps:
 	$(DCO) ps
 
+testd:
+	$(DCO) exec $(DOCKER_SERVICE) poetry run python3 -m pytest
