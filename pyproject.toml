@@ -17,6 +17,7 @@ python-jose = {version = "^3.3.0", extras = ["cryptography"]}
 passlib = {version = "^1.7.4", extras = ["bcrpyt"]}
 python-multipart = "^0.0.5"
 bcrypt = "^3.2.2"
+pytest-dotenv = "^0.5.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
@@ -30,3 +31,6 @@ log_level = "info"
 testpaths = ["./tests/"]
 env_files = [".env.test"]
 env_override_existing_values = 1
+pythonpath = [
+  ".", "src",
+]
