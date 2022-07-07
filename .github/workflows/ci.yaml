@@ -81,6 +81,9 @@ jobs:
           path: ".venv"
           key: "venv-${{ hashFiles('poetry.lock') }}"
 
+      - name: "Show current dir"
+        run: "pwd"
+
       - name: "Install project"
         run: "poetry install"
 
