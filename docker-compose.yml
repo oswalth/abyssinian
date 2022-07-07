@@ -1,4 +1,4 @@
-version: "3"
+version: "3.5"
 
 services:
 
@@ -13,7 +13,9 @@ services:
       - 5432:5432
 
   app:
-    build: .
+    build:
+      context: .
+      target: run
     command: "poetry run uvicorn src.main:app --host 0.0.0.0 --port 9050 --reload"
     volumes:
       - "./src:/app/src"
@@ -26,3 +28,14 @@ services:
     environment:
       DATABASE_URL: "postgresql://postgres:postgres@db:5432/abyssinian"
     entrypoint: ["/app/entrypoint.sh"]
+
+  test:
+    build:
+      context: .
+      target: test
+    volumes:
+      - "./src:/app/src"
+      - "./tests:/app/tests"
+    command: "sleep infinity"
+    env_file:
+      - ".env.test"

@@ -1,4 +1,4 @@
-FROM python:3.10.1-buster
+FROM python:3.10.1-buster as base
 SHELL ["/bin/bash", "-c", "-o", "pipefail"]
 
 LABEL description="Test project for deploying FastAPI app to AWS Lambda"
@@ -47,6 +47,8 @@ COPY ./poetry.lock ./
 RUN poetry install --no-dev --no-root
 
 COPY ./src ./src
+
+FROM base as run
 COPY ./alembic.ini ./
 COPY ./alembic ./alembic
 
@@ -58,3 +60,7 @@ USER root
 RUN chmod +x ./entrypoint.sh
 
 USER ${APP_USER}:${APP_USER}
+
+FROM base as test
+COPY ./tests ./tests
+RUN poetry install

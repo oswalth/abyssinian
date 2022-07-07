@@ -12,8 +12,6 @@ from crud.users import user_crud
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl=f"{get_settings().api_str}/auth/login")
 
 
-
-
 def authenticate_user(db: Session, email: str, password: str):
     user = user_crud.get_user_by_email(db, email)
     if not user:

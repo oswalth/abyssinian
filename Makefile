@@ -1,5 +1,6 @@
 DCO ?= docker-compose
 DOCKER_SERVICE ?= app
+DOCKER_TEST_SERVICE ?= test
 
 build:
 	COMPOSE_DOCKER_CLI_BUILD=1 DOCKER_BUILDKIT=1 $(DCO) build
@@ -26,4 +27,4 @@ ps:
 	$(DCO) ps
 
 testd:
-	$(DCO) exec $(DOCKER_SERVICE) poetry run python3 -m pytest
+	$(DCO) exec $(DOCKER_TEST_SERVICE) poetry run python3 -m pytest -v

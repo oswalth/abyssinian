@@ -3,6 +3,8 @@ from uuid import UUID
 
 from pydantic.main import BaseModel
 
+from schemas.base import BaseSchema, UpdatedAtSchema
+
 
 class AccessCodeBase(BaseModel):
     name: str
@@ -19,7 +21,7 @@ class AccessCodeCreate(AccessCodeBase):
     pass
 
 
-class AccessCode(AccessCodeBase):
+class AccessCode(AccessCodeBase, BaseSchema):
 
     class Config:
         orm_mode = True
@@ -36,7 +38,7 @@ class UserCreate(UserBase):
     password: str
 
 
-class User(UserBase):
+class User(UserBase, BaseSchema):
     id: UUID
     is_active: bool
     created_at: datetime
@@ -54,7 +56,7 @@ class CoachCreate(CoachBase):
     user: UserCreate
 
 
-class Coach(CoachBase):
+class Coach(CoachBase, UpdatedAtSchema):
     user: User
 
     class Config:
@@ -71,7 +73,7 @@ class ClientCreate(ClientBase):
     user: UserCreate
 
 
-class Client(ClientBase):
+class Client(ClientBase, UpdatedAtSchema):
     access_code: AccessCode
     user: User
     coach: Coach | None
