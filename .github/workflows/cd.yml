@@ -6,11 +6,6 @@ name: "CD"
 
 on:
   workflow_call:
-    inputs:
-      stage:
-        description: 'Abyssinian aws lambda deploy workflow'
-        required: true
-        type: "string"
     secrets:
       AWS_ACCESS_KEY_ID:
         description: "AWS Access Key ID"
