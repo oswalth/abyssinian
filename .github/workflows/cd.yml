@@ -1,0 +1,52 @@
+defaults:
+  run:
+    shell: "bash"
+
+name: "CD"
+
+on:
+  workflow_call:
+    inputs:
+      stage:
+        description: 'Abyssinian aws lambda deploy workflow'
+        required: true
+        type: "string"
+    secrets:
+      AWS_ACCESS_KEY_ID:
+        description: "AWS Access Key ID"
+        required: true
+      AWS_SECRET_ACCESS_KEY:
+        description: "AWS Secret Access Key ID with deploy privileges"
+        required: true
+      AWS_DEFAULT_REGION:
+        description: "AWS Access default region"
+        required: true
+      S3_CODE_BUCKET_NAME:
+        description: "AWS S3 bucket name that contains app code"
+        required: true
+      LAMBDA_FUNCTION_NAME:
+        description: "AWS Lambda function name"
+        required: true
+
+jobs:
+  deploy:
+    name: "Deploy to Lambda"
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: "Configure AWS Credentials"
+        uses: "aws-actions/configure-aws-credentials@v1.6.1"
+        with:
+          aws-access-key-id: "${{ secrets.AWS_ACCESS_KEY_ID }}"
+          aws-secret-access-key: "${{ secrets.AWS_SECRET_ACCESS_KEY }}"
+          aws-region: "${{ env.AWS_DEFAULT_REGION }}"
+
+      - name: Download Lambda api.zip
+        uses: actions/download-artifact@v2
+        with:
+          name: api
+
+      - name: Upload to S3
+        run: aws s3 cp api.zip s3://${{ secrets.S3_CODE_BUCKET_NAME }}/api.zip
+
+      - name: Deploy new Lambda
+        run: aws lambda update-function-code --function-name ${{ secrets.LAMBDA_FUNCTION_NAME }} --s3-bucket ${{ secrets.S3_CODE_BUCKET_NAME }} --s3-key api.zip
