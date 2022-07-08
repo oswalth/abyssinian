@@ -2,7 +2,7 @@
 name = "abyssinian"
 version = "0.1.0"
 description = "Test project for deploying FastAPI app to AWS Lambda"
-authors = ["oswalth <oswalth2@gmail.com>"]
+authors = ["Vladimir Carpa <oswalth2@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
