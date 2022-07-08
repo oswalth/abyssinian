@@ -103,7 +103,6 @@ jobs:
 
   deploy:
     needs: ["test"]
-    if: github.ref == 'refs/heads/main'
     uses: "oswalth/abyssinian/.github/workflows/cd.yml@main"
     secrets:
       AWS_ACCESS_KEY_ID: "${{ secrets.AWS_ACCESS_KEY_ID }}"
