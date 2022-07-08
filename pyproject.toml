@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "abyssinian"
 version = "0.1.0"
-description = "Test project for deploying FastAPI app to AWS Lambda"
+description = ""
 authors = ["oswalth <oswalth2@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.9"
 fastapi = "^0.78.0"
 uvicorn = "^0.18.2"
 psycopg2 = "^2.9.3"
@@ -13,8 +13,9 @@ pydantic = "^1.9.1"
 alembic = "^1.8.0"
 python-multipart = "^0.0.5"
 bcrypt = "^3.2.2"
-python-jose = {version = "^3.3.0", extras = ["cryptography"]}
 passlib = "^1.7.4"
+mangum = "^0.15.0"
+python-jose = {version = "^3.3.0", extras = ["cryptography"]}
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
@@ -24,12 +25,3 @@ requests = "^2.28.1"
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
-
-[tool.pytest.ini_options]
-log_level = "info"
-testpaths = ["./tests/"]
-env_files = [".env.test"]
-env_override_existing_values = 1
-pythonpath = [
-  ".", "src",
-]

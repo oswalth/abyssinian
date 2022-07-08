@@ -1,4 +1,5 @@
 from datetime import datetime
+from typing import Optional
 from uuid import UUID
 
 from pydantic.main import BaseModel
@@ -76,7 +77,7 @@ class ClientCreate(ClientBase):
 class Client(ClientBase, UpdatedAtSchema):
     access_code: AccessCode
     user: User
-    coach: Coach | None
+    coach: Optional[Coach]
 
     class Config:
         orm_mode = True

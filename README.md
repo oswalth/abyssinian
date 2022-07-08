@@ -19,7 +19,7 @@ Tools and packages required to successfully install this project.
 
 If you are running in virtual environment, following packages are also required.
 
-- Python >= 3.10.1 [Install](https://www.python.org/downloads/)
+- Python >= 3.9.13 [Install](https://www.python.org/downloads/)
 - Postgres == 12.5 [Install](https://www.postgresql.org/download/)
 
 ## Installation
