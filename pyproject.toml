@@ -25,3 +25,12 @@ requests = "^2.28.1"
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+log_level = "info"
+testpaths = ["./tests/"]
+env_files = [".env.test"]
+env_override_existing_values = 1
+pythonpath = [
+  ".", "src",
+]
