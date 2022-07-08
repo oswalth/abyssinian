@@ -1,6 +1,7 @@
 import uvicorn
 
 from fastapi import FastAPI, Depends
+from mangum import Mangum
 from sqlalchemy.exc import OperationalError
 from sqlalchemy.orm import Session
 from starlette.exceptions import HTTPException
@@ -23,6 +24,8 @@ def health(db: Session = Depends(get_db)):
         raise HTTPException(status_code=500, detail="DB not ready")
     return "pong"
 
+
+handler = Mangum(app)
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)

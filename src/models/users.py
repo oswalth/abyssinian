@@ -1,17 +1,14 @@
-import uuid
-
 from sqlalchemy import Boolean, Column, Integer, String, DateTime, ForeignKey
-from sqlalchemy.dialects.postgresql import UUID
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 
 from models import Base
+from models.base import GUID, BaseModel, UpdatedAtMixin
 
 
-class AccessCode(Base):
+class AccessCode(BaseModel, Base):
     __tablename__ = "access_codes"
-    
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+
     name = Column(String)
     is_active = Column(Boolean, default=True)
     is_coach_session_enabled = Column(Boolean, default=False)
@@ -24,17 +21,15 @@ class AccessCode(Base):
     clients = relationship("Client", back_populates="access_code")
     
     
-class User(Base):
+class User(BaseModel, Base):
     __tablename__ = "users"
 
-    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     email = Column(String, unique=True, index=True)
     first_name = Column(String)
     last_name = Column(String)
     phone_number = Column(String, unique=True)
 
     is_active = Column(Boolean, default=True)
-    created_at = Column(DateTime(timezone=True), server_default=func.now())
     last_login = Column(DateTime(timezone=True), server_default=func.now())
 
     hashed_password = Column(String)
@@ -43,22 +38,23 @@ class User(Base):
     coach = relationship("Coach", back_populates="user", uselist=False)
 
 
-class Coach(Base):
+class Coach(UpdatedAtMixin, Base):
     __tablename__ = "coaches"
 
-    id = Column(UUID(as_uuid=True), ForeignKey("users.id"), primary_key=True)
+    id = Column(GUID(), ForeignKey("users.id"), primary_key=True)
     sessions_limit_per_week = Column(Integer)
 
     user = relationship("User", back_populates="coach")
     clients = relationship("Client", back_populates="coach")
 
 
-class Client(Base):
+class Client(UpdatedAtMixin, Base):
     __tablename__ = "clients"
 
-    id = Column(UUID(as_uuid=True), ForeignKey("users.id"), primary_key=True)
-    access_code_id = Column(UUID(as_uuid=True), ForeignKey("access_codes.id"))
-    coach_id = Column(UUID(as_uuid=True), ForeignKey("coaches.id"))
+    id = Column(GUID(), ForeignKey("users.id"), primary_key=True)
+
+    access_code_id = Column(GUID(), ForeignKey("access_codes.id"))
+    coach_id = Column(GUID(), ForeignKey("coaches.id"))
 
     is_agree_uprise_emails = Column(Boolean, default=True)
     is_agree_terms_conditions = Column(Boolean, default=True)

@@ -1,14 +1,14 @@
-from typing import TypeVar, Generic
+from typing import TypeVar, Generic, Union
 from uuid import UUID
 
-from pydantic import BaseModel
+from pydantic.main import BaseModel
 from sqlalchemy.orm import Session
 
 from models import Base
 
 ModelType = TypeVar("ModelType", bound=Base)
 CreateSchemaType = TypeVar("CreateSchemaType", bound=BaseModel)
-IDType = UUID | int
+IDType = Union[UUID, int]
 
 
 class BaseCRUD(Generic[ModelType, CreateSchemaType]):

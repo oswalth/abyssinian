@@ -8,7 +8,7 @@ from starlette import status
 from config import get_settings
 from core.auth import authenticate_user, create_access_token
 from dependencies import get_db
-from schemas.users import AccessCode, Token
+from schemas.users import Token
 
 router = APIRouter(
     prefix="/auth",

@@ -1,4 +1,5 @@
 from datetime import timedelta, datetime
+from typing import Optional
 
 from fastapi.security import OAuth2PasswordBearer
 from sqlalchemy.orm import Session
@@ -12,8 +13,6 @@ from crud.users import user_crud
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl=f"{get_settings().api_str}/auth/login")
 
 
-
-
 def authenticate_user(db: Session, email: str, password: str):
     user = user_crud.get_user_by_email(db, email)
     if not user:
@@ -23,7 +22,7 @@ def authenticate_user(db: Session, email: str, password: str):
     return user
 
 
-def create_access_token(data: dict, expires_delta: timedelta | None = None):
+def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):
     to_encode = data.copy()
     if expires_delta:
         expire = datetime.utcnow() + expires_delta
