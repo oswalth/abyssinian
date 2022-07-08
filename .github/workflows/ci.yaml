@@ -100,3 +100,14 @@ jobs:
         with:
           name: api
           path: api.zip
+
+  deploy:
+    needs: ["test"]
+    if: github.ref == 'refs/heads/main'
+    uses: "oswalth/abyssinian/.github/workflows/cd.yml@master"
+    secrets:
+      AWS_ACCESS_KEY_ID: "${{ secrets.AWS_ACCESS_KEY_ID }}"
+      AWS_SECRET_ACCESS_KEY: "${{ secrets.AWS_SECRET_ACCESS_KEY }}"
+      AWS_DEFAULT_REGION: "${{ secrets.AWS_DEFAULT_REGION }}"
+      S3_CODE_BUCKET_NAME: "${{ secrets.S3_CODE_BUCKET_NAME }}"
+      LAMBDA_FUNCTION_NAME: "${{ secrets.LAMBDA_FUNCTION_NAME }}"
