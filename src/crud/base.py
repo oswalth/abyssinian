@@ -1,4 +1,4 @@
-from typing import TypeVar, Generic, Union
+from typing import TypeVar, Generic
 from uuid import UUID
 
 from pydantic.main import BaseModel
@@ -8,7 +8,7 @@ from models import Base
 
 ModelType = TypeVar("ModelType", bound=Base)
 CreateSchemaType = TypeVar("CreateSchemaType", bound=BaseModel)
-IDType = Union[UUID, int]
+IDType = UUID | int
 
 
 class BaseCRUD(Generic[ModelType, CreateSchemaType]):

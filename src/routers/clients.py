@@ -3,10 +3,10 @@ from uuid import UUID
 from fastapi import APIRouter, Depends, HTTPException, Body
 
 from crud.users import user_crud, client_crud
-from dependencies import get_db, get_current_active_user
+from dependencies import get_db
 from sqlalchemy.orm import Session
 
-from schemas.users import ClientCreate, Client, User
+from schemas.users import ClientCreate, Client
 
 router = APIRouter(
     prefix="/clients",
@@ -24,7 +24,7 @@ def write_client(client: ClientCreate, db: Session = Depends(get_db)):
 
 
 @router.get("/", response_model=list[Client])
-def read_clients(offset: int = 0, limit: int = 100, db: Session = Depends(get_db), user: User = Depends(get_current_active_user)):
+def read_clients(offset: int = 0, limit: int = 100, db: Session = Depends(get_db)):
     clients = client_crud.get_many(db, offset=offset, limit=limit)
     return clients
 

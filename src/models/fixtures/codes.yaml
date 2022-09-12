@@ -1,0 +1,39 @@
+- id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
+  name: full_access
+  is_coach_session_enabled: true
+  is_communication_request_enabled: true
+  is_care_navigation_enabled: true
+  is_case_manager_notification_enabled: true
+  is_additional_session_request_enabled: true
+  coach_session_limit: 10
+  is_active: true
+
+- id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
+  name: coaching_only
+  is_coach_session_enabled: true
+  is_communication_request_enabled: false
+  is_care_navigation_enabled: false
+  is_case_manager_notification_enabled: false
+  is_additional_session_request_enabled: false
+  coach_session_limit: 10
+  is_active: true
+
+- id: 02395673-9cda-49fd-bcf3-aecb98294987
+  name: coaching_comm_req
+  is_coach_session_enabled: true
+  is_communication_request_enabled: true
+  is_care_navigation_enabled: false
+  is_case_manager_notification_enabled: false
+  is_additional_session_request_enabled: false
+  coach_session_limit: 10
+  is_active: true
+
+- id: 1d0a623b-0927-4b58-9474-1961348c52ce
+  name: inactive
+  is_coach_session_enabled: true
+  is_communication_request_enabled: false
+  is_care_navigation_enabled: false
+  is_case_manager_notification_enabled: false
+  is_additional_session_request_enabled: false
+  coach_session_limit: 10
+  is_active: false

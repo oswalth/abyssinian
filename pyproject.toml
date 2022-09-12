@@ -5,7 +5,7 @@ description = "Test project for deploying FastAPI app to AWS Lambda"
 authors = ["Vladimir Carpa <oswalth2@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.10"
 fastapi = "^0.78.0"
 uvicorn = "^0.18.2"
 psycopg2 = "^2.9.3"
@@ -16,6 +16,8 @@ bcrypt = "^3.2.2"
 passlib = "^1.7.4"
 mangum = "^0.15.0"
 python-jose = {version = "^3.3.0", extras = ["cryptography"]}
+PyYAML = "^6.0"
+humps = "^0.2.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"

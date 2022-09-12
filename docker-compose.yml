@@ -10,7 +10,8 @@ services:
       POSTGRES_HOST_AUTH_METHOD: "trust"
     restart: always
     ports:
-      - 5432:5432
+      - "8001:8001"
+    command: -p 8001
 
   app:
     build:
@@ -20,13 +21,13 @@ services:
     volumes:
       - "./src:/app/src"
     ports:
-      - 9050:9050
+      - "9050:9050"
     depends_on:
       - db
     env_file:
       - ".env"
     environment:
-      DATABASE_URL: "postgresql://postgres:postgres@db:5432/abyssinian"
+      RDS_HOSTNAME: "db"
     entrypoint: ["/app/entrypoint.sh"]
 
   test:

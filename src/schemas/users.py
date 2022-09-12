@@ -1,13 +1,11 @@
 from datetime import datetime
-from typing import Optional
 from uuid import UUID
 
-from pydantic.main import BaseModel
 
-from schemas.base import BaseSchema, UpdatedAtSchema
+from schemas.base import BaseSchema, UpdatedAtSchema, CamelModel
 
 
-class AccessCodeBase(BaseModel):
+class AccessCodeBase(CamelModel):
     name: str
     is_coach_session_enabled: bool
     is_communication_request_enabled: bool
@@ -28,7 +26,7 @@ class AccessCode(AccessCodeBase, BaseSchema):
         orm_mode = True
 
 
-class UserBase(BaseModel):
+class UserBase(CamelModel):
     email: str
     phone_number: str
     first_name: str
@@ -49,7 +47,7 @@ class User(UserBase, BaseSchema):
         orm_mode = True
 
 
-class CoachBase(BaseModel):
+class CoachBase(CamelModel):
     sessions_limit_per_week: int
 
 
@@ -64,7 +62,7 @@ class Coach(CoachBase, UpdatedAtSchema):
         orm_mode = True
 
 
-class ClientBase(BaseModel):
+class ClientBase(CamelModel):
     is_agree_uprise_emails: bool
     is_agree_terms_conditions: bool
 
@@ -77,16 +75,16 @@ class ClientCreate(ClientBase):
 class Client(ClientBase, UpdatedAtSchema):
     access_code: AccessCode
     user: User
-    coach: Optional[Coach]
+    coach: Coach | None
 
     class Config:
         orm_mode = True
 
 
-class TokenData(BaseModel):
+class TokenData(CamelModel):
     email: str
 
 
-class Token(BaseModel):
+class Token(CamelModel):
     access_token: str
     token_type: str

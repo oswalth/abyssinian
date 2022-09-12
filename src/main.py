@@ -1,6 +1,7 @@
 import uvicorn
 
 from fastapi import FastAPI, Depends
+from fastapi.middleware.cors import CORSMiddleware
 from mangum import Mangum
 from sqlalchemy.exc import OperationalError
 from sqlalchemy.orm import Session
@@ -15,6 +16,15 @@ app = FastAPI(openapi_url=f"{get_settings().api_str}/openapi.json")
 
 app.include_router(api.api_router)
 
+origins = ["*"]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/ping")
 def health(db: Session = Depends(get_db)):

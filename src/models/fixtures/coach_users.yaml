@@ -1,0 +1,80 @@
+- id: 3947b80b-28f2-4e66-a584-958856768c4b
+  email: dmatijasevic0@java.com
+  first_name: Delphine
+  last_name: Matijasevic
+  phone_number: +864328866176
+  is_active: True
+  password: PorjuQiYIa7
+
+- id: 601e1389-e789-4c7d-bf09-75faa31a2749
+  email: rhukins1@infoseek.co.jp
+  first_name: Royal
+  last_name: Hukins
+  phone_number: +3597242971197
+  is_active: True
+  password: PH1F34GuRsW3
+
+- id: 5ff25703-c37c-4829-ab3f-51720efd11f6
+  email: kwohler2@yahoo.co.jp
+  first_name: Kathy
+  last_name: Wohler
+  phone_number: +3836478682402
+  is_active: True
+  password: eQQuuYTpjPo
+
+- id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
+  email: backroyd3@jimdo.com
+  first_name: Belita
+  last_name: Ackroyd
+  phone_number: +628985583761
+  is_active: False
+  password: PorjuQiYIa7
+
+- id: ff5e8181-d018-4135-8385-a7b97dd43812
+  email: wlabuschagne4@telegraph.co.uk
+  first_name: Winny
+  last_name: Labuschagne
+  phone_number: +666877852467
+  is_active: True
+  password: qH4mYFefpNki
+
+- id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
+  email: mmatveyev5@tuttocitta.it
+  first_name: Mel
+  last_name: Matveyev
+  phone_number: +983854773024
+  is_active: False
+  password: qH4mYFefpNki
+
+- id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
+  email: fellin6@columbia.edu
+  first_name: Franni
+  last_name: Ellin
+  phone_number: +73517133078
+  is_active: False
+  password: PH1F34GuRsW3
+
+- id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
+  email: pades7@ihg.com
+  first_name: Pattin
+  last_name: Ades
+  phone_number: +9702819502366
+  is_active: False
+  password: 5mnpBVV30MlD
+
+- id: 4322b332-ca50-4088-9024-05617f835757
+  email: bburmingham8@free.fr
+  first_name: Bertrand
+  last_name: Burmingham
+  phone_number: +667414397415
+  is_active: True
+  password: eQQuuYTpjPo
+
+- id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
+  email: sgunningham9@mashable.com
+  first_name: Seana
+  last_name: Gunningham
+  phone_number: +623138696280
+  is_active: True
+  password: PorjuQiYIa7
+

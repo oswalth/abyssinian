@@ -1,7 +1,7 @@
-FROM python:3.9.13-buster as base
+FROM python:3.10.1-buster as base
 SHELL ["/bin/bash", "-c", "-o", "pipefail"]
 
-LABEL description="Test project for deploying FastAPI app to AWS Lambda"
+LABEL description="Test project for deploying FastAPI app to AWS ECS"
 LABEL maintainer="Vladimir Carpa <oswalth2@gmail.com>"
 
 ENV APP_SYSTEM_PACKAGES="gcc libyaml-dev locales-all"
@@ -59,6 +59,8 @@ USER root
 RUN chmod +x ./entrypoint.sh
 
 USER ${APP_USER}:${APP_USER}
+
+CMD ["poetry", "run", "uvicorn", "src.main:app", "--host", "0.0.0.0", "--port", "9050", "--reload"]
 
 FROM base as test
 COPY ./tests ./tests
