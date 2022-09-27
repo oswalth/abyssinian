@@ -6,17 +6,9 @@ from starlette import status
 from config import get_settings
 from core.auth import oauth2_scheme
 from crud.users import user_crud
-from database import SessionLocal
+from dependencies.db import get_db
 from schemas.users import User
 from schemas.users import TokenData
-
-
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
 
 
 def get_current_user(db: Session = Depends(get_db), token: str = Depends(oauth2_scheme)) -> User:

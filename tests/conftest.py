@@ -3,7 +3,7 @@ import sqlalchemy as sa
 from sqlalchemy.orm import sessionmaker
 from starlette.testclient import TestClient
 
-from dependencies import get_db
+from dependencies.db import get_db
 from main import app
 from models import Base
 

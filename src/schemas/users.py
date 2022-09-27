@@ -63,7 +63,7 @@ class Coach(CoachBase, UpdatedAtSchema):
 
 
 class ClientBase(CamelModel):
-    is_agree_uprise_emails: bool
+    is_agree_emails: bool
     is_agree_terms_conditions: bool
 
 

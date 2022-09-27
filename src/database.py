@@ -7,4 +7,3 @@ engine = create_engine(
     get_settings().database_url
 )
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
-

@@ -1,3192 +1,3192 @@
 - id: 5b5b097e-2657-4b62-a780-8b4bb5a6e53e
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 90634005-5c62-4889-88a1-b7deff67e2bc
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: fd5b3968-a4ac-423a-b58d-81cb0ee7ae6f
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 794f2b91-e719-4520-bac6-ece30d75e9ce
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 0ff6cc0a-dbd2-466d-bc12-521fd3dc80ee
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 6bb2a1b6-26ec-4404-874b-823916a78bd9
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 5343f027-b11b-4273-bd01-40a09bfdf81d
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: b00640fc-a712-474a-8425-e8d7d8e094a2
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 0d94f4ca-f4e5-4b67-bc91-26f233c57dcc
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: bc23ee3d-d407-4d64-832c-dc9320f0a38a
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 0af83624-4f33-4aca-8bc4-381698a53771
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 6962ebd1-5d4c-448d-ab69-bfb5080da05b
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 5f106335-b022-4548-b241-7b6d774cf2d5
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 76e181db-ff74-4f66-a835-8d897b206b69
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: fb9427fb-32da-47ee-bac1-9760bf6ea8a2
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 53968008-b4c1-4d5a-9a72-bd964c77cd8a
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 016396bb-1ec2-4118-aab4-ed7b77a17a36
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: b3a89fd6-f482-4951-ac98-3d3b5d876972
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 7f37dda8-8860-4e2d-a822-ae3714f21de8
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: da2e5872-9b5f-4636-ab9b-7aa95323525c
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 5aa5cca5-08fb-472b-ad93-e78e7cdafba6
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 574fb209-feaa-423d-8fd2-556d924321c7
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 17e7f26b-1f56-4d32-bc6b-e6681d899852
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 73f1533b-30f7-4de2-8723-9fb95fee58c9
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 698fa054-fd1f-4c26-b3f4-38a446ed786f
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 3ecdb313-6acb-45cc-bad1-7cf3a749301e
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 0be6373e-6cd9-4242-b813-b14d47b80c43
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: c2d6a2e7-f441-472e-94e8-b01f78cf8ff5
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: a47cf81c-4f52-4d9c-bb36-4cc3b4e02de2
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: db8e0a05-fd92-47cc-b49e-dd86a983dd85
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 1452dd93-612b-41aa-bcbb-ecbc4ed23b67
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 046c4ed2-cca9-4eaf-8d9e-5f8a3d1c54da
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 8f2c4ba9-0615-42db-bd08-b1da695336a4
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: d877f760-d772-40aa-92c6-43192d9cf958
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 29c79435-452d-4755-a456-d1f80ea5a86a
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 40c1c75b-7081-441c-a3f5-75363153f2a5
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 8029492c-e113-475a-a785-7b16b4ae391c
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: e074d43d-cf6e-485f-ae7f-368a08496424
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: cafc9e94-193a-403c-9219-938c37632b3a
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: d1125244-756c-458b-951c-c9ba8d922952
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 2f085125-9812-4e60-9399-efe12efe4f0b
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 54f5067f-c03e-4a5e-8de7-1ba9e1b28ea9
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 61c8a95e-f18e-4cd4-a267-32874eb60fc0
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 76ba1719-d428-4546-aa32-9c5271f7c8f1
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: f0cc3760-abea-48ca-a2a1-70386e87e8d1
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 2132c5e4-5c9f-46f0-bd29-1fbcb67d14c4
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 09cd8235-cb1b-43d2-89ca-76e13f9e11bc
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 60e6a9d5-2833-40a5-83d5-d53eb6dbbab8
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: a924f1ef-6ef7-490c-b715-6a27ffc8ce54
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: c36c7298-6b2b-4b9a-ba5d-0a62bc6c97cc
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 0f79da25-abff-43c1-8fb4-dc23523ff7aa
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: b86e0bf9-eaf6-4be1-97b1-ec1466a10be6
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: a04a5fac-887c-445f-965b-090fa8c0b25f
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 4c3dd6db-5c2a-481a-806c-13dbe03028f7
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: b470a8c4-de27-40d6-b081-d6aea9e4779d
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 8fcc089e-adf0-421c-9d99-f0b2379f0ef2
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 156c3596-cf0e-43dc-be96-4d0a9d212d33
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 229905ba-3bca-4f37-8278-0fc4b79b0823
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: fb1a611c-93e6-4d3a-8ee9-81b512362871
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: b0e2cfe7-7d14-4f10-8ae5-77536c462e28
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 9b677759-e405-464d-970b-bd5272f421c4
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 176042e8-efcd-4ef7-b5e7-308c93a60084
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 4389db46-4b4d-40bb-9bbf-a51f83ecbe53
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: b057ab6e-7a7f-45d8-8d1d-5120a9282ab2
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: b23eda68-a1a0-464d-9646-170978d0ff8d
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 0dd36a30-72e0-4c81-8a24-02b16fccb71d
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 1956a7ee-8ebe-4e20-a9ac-21c433bba8df
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: db6248b3-df8f-4d82-801c-a86c81a86ae3
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: b8b83678-c36a-4faa-a053-1a61341c17b3
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 82eb9949-beff-4743-a963-656cb792b06b
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 4c502f88-cac4-4914-8360-4e38f6d2b40e
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: f1c9fb2e-a151-4a2c-a7ff-6ff44a258dd7
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: d61081c8-037c-4178-8d2a-3e2911500a26
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 27ae7007-b789-47e6-a00e-9f128ef432c8
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: a7512d73-32b0-4a68-91cd-1b4d114400ae
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: d7b8e088-e0b9-4928-b98a-f6b7140f998f
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 53e5f1fd-db95-459c-898b-480df6a79e05
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 2717c87d-84d4-4994-9dfa-f1370a67e16b
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 8f013115-6dee-4676-8100-ef57314344de
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: c12aeff2-e541-417e-83db-3ba7d2777818
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: d01f93cd-5f22-44eb-b09d-248c98626902
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 7d67f7a0-cd21-4340-815e-6707714e38c6
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: f90db14e-b60e-4329-beef-5fcfc017e7bd
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: f1e53342-fb7b-4ec5-8c21-f45971e48974
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 61ed91f7-df5e-416a-a4cc-cd179581143c
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: acadef9b-0e12-4b1a-8684-3ebd2d2c0c5e
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: cae91f14-f7eb-45f3-837d-ba71a0067bb0
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: ace57f40-cb63-4f9a-aeaf-b9fcf55a2120
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: b34b62d7-1d55-472f-b756-112dd82b212b
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 3f66ca75-2dde-4b05-abb8-ec49b71a19e6
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: d7071317-88d5-47e6-a24e-6a5737118a83
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: fcf209a9-37c3-46c2-876d-9398f3334c02
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 85feaa4f-6bcb-4de5-992f-efc47244b1c6
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: c6003be1-4a7b-4a68-8e03-ee8175666ba2
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 3e698067-d279-4548-a10f-ac8dea2dd0b6
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: f966fd7d-87b0-4e72-b560-2bf49b18a70c
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 884bb5f2-1d30-41eb-a5b6-7d106b5b7e74
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: e3ad932c-228c-465a-b5a9-262ad6bf7908
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: ea420ec4-af72-4277-bece-6b82688a04da
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: fc7e6922-f332-45d4-8228-64500291b06e
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 32719701-f8aa-4072-91dd-7d91db4c9670
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: d25fced7-d37f-4f59-ade6-bbf99f42db32
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 37ca5563-2e1f-4967-8e17-3d72cf8a84fb
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: e958e0be-9087-4b8c-a95d-fdbc8d120111
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 9eef2979-8b29-4e48-a929-be93a15d112b
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 8a25e055-9402-4d56-a6cd-0e97b83a0054
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: fca6070c-cde0-47b7-b512-297ecd89619d
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 9accacf7-cc5c-499d-8ddf-21dc7f12cade
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 4b0c8221-169e-4584-8b14-05f6f43858f0
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 1a67b6f1-9db0-464c-8e7e-df1c27fddf94
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 9bfca198-e627-4f86-8bcd-037aa24ea09d
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: f6e55727-67a6-4df2-9e98-c9be1b3c852f
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: eddbb411-ac8e-4693-be3b-1dd9b3c5a14b
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 5fde6819-8b8b-4d1d-ae7a-12d600dca295
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: e7f38542-1a33-4365-ba25-98e0afade1b1
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 42cafba4-4146-41af-9116-44a25d4639b9
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 46dddc61-bc29-4aa7-9af3-293952d3e46e
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: aa6e9b0a-2ef4-4a19-83d7-bfe8fc5f306e
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 19033d6a-7314-455f-96b8-68c23792e4ed
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 4f0dad48-0545-4df6-932b-a20244088a8d
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 6158bbfa-5fb1-4097-b63c-c0bd79d9c72b
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: c5327464-02ac-4f1b-9c4e-314a39eed113
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 33654df3-125d-4488-8234-97c50a00de45
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 9114aff5-a85a-4b37-9ba6-c7757d2e765a
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 361b6f38-7f7b-4dab-8fc6-1be0e647f18c
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 85394aec-948c-41d8-8897-bddb22ff5b1f
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 7834f0d5-88b1-47a4-a2a7-60949b4ccba3
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 01e218b3-e2c9-436b-9166-980ecce025c6
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 61eb9d37-cc03-4a9d-ad22-2963481d90a6
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: b3ac9765-7e74-441c-9b94-9bcc5f598c15
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 7548ba8f-1dc8-484e-a87e-0facdaf1cbab
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 75183934-b7d8-4a2c-bdd9-f933622ed1ce
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 4d35bda3-45fc-444b-8abc-2ac4128bf375
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 70672da3-e16a-4fe8-b1dc-aa737982feff
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: aeee12d2-0693-404e-9301-9c98f939662f
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 58acd139-d36e-420c-b795-010cba751e75
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: a9f7d3cd-697d-4253-b7f3-f0ec9c74d4a8
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: f0b7d0e7-ae2b-4360-abb3-73d4c6004708
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 8e23a024-c784-48a5-8265-ce6b208dc6ad
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 20ced05c-81ed-4384-ae48-b36e24ab4ed1
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: acd13ae8-daf1-467d-9a43-3aa2c36b91e1
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: a74ec4f9-f2e3-4442-91b9-75a0703bb6a2
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: f8eade29-894f-4224-8fc8-707450e1c446
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: e732bbda-f1ca-4e2c-ac81-e96fc5dbd698
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 0300cdb5-768f-4a9a-aae5-252b7d047980
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: cdda7bb1-3496-42a3-9a0c-c96f50fb26b0
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 303473a4-97d0-44e1-9f11-5be41d87f031
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: b32beaeb-4277-4e01-a3fa-7896aad44bc3
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: a577489f-a098-4bd8-b3f5-2be665d84896
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 45be3985-c433-4d82-ac01-5834227aac20
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 3d196eed-3a7a-4a8e-a2ac-c25317b5f6d2
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: fec3cb3c-de73-4ce3-80e3-57502413a83c
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 408b6943-775d-4a3c-a77b-d1480f01911c
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 4ef3c447-7069-47a6-8d86-5874e768bc6f
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 38f6e66d-560d-42f6-9847-e6902025d69a
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 33a45776-c125-4dbe-b4d5-bdec81a70202
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 080ccba8-cee3-46af-a3ca-0ba4cc168027
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: d7d73eaf-daed-4e9a-aad4-a45e14f34c65
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 36560601-4841-4ee2-9ea7-d33790dc2b99
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 265c694f-dcde-4886-a831-a67618c7899f
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: c4dbe362-b6f4-4ef8-8f5e-1edd574846b9
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: bfccd63f-7c9d-404a-ac83-b40df6c8aa31
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: b68429e5-822f-417a-b6e7-1f8c7e80677a
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 61b7b83b-68ee-47c1-af8a-d6cb4c0e9c9f
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 1bf206b0-f1b8-40d6-970e-2e7bfe0e8ff8
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 4f7358e5-ed35-44ca-9065-441b668805e8
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 5006f6e7-fd0e-4337-aef0-cc7c0884a1c2
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 11223619-f308-4ccb-b527-d5a04ee4dea1
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: b4536541-04c0-4865-9849-dfab92f77c59
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 34aa946a-ab95-4d9a-bb94-8cab1356d0c7
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 19ce44a8-e9bd-4ba7-b056-c4685be5071b
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 9f339643-60c6-47c9-9950-78c8d0ca0fe4
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: b9114ace-03ce-4feb-abff-b0e4ba426d6b
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: ceac15d6-e3c9-4d64-8811-3d605b9cf9c4
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 857beb0b-b44b-48ac-b36f-fb2c4ec7cd46
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 134ece7b-b9d4-4bea-8842-b41b09982bbf
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 298ac5a7-15db-4ff4-9a91-8441e6212533
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 211e5cae-10ed-4289-addd-a500d8d23c73
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: c62626e8-3d5f-4eea-8784-e14960a7171f
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 226863c4-3e94-4efc-a534-8a71e4187da3
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 4579be47-71e0-4c16-ae9a-1d6022b49b4f
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 9dcb2b55-9875-4695-80f6-d71d223a269e
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 9175a651-8cb4-4c1c-abf5-1a164395a137
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: a9ed0861-557d-45c2-8165-70250dd553fc
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 8fccdefd-f9c5-4ede-8d3f-d1304242ddb9
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 9db158f4-2af5-4726-91c8-bce892ee982e
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 894dd880-fbc3-4b2d-9164-759dc4ccd359
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 5136a694-2d13-411a-b3d1-274e3814c262
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 0bcb40a9-303b-46e8-8ac4-c2ac40fab0fa
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 9318134c-dc9e-4035-b6f1-fe5404cfa051
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 445d640a-09f9-4da0-af76-a5aa8f3cb90f
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 9dc520a8-9179-4c87-825c-a1ba8eefde9c
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 58d5cd4b-50cc-4a5f-b58c-8a8abb152dae
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: ce092972-aee4-4968-985f-744f2b523538
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 05509213-b486-48d7-9e8e-abcbcff590df
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: e7bf987d-94bf-4f04-a8ef-9f2c18fccf40
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: f574dd82-6a80-4e82-bd9f-de3910f25a85
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 50ee7b8a-2fb9-44bb-9cf2-dee50b3dd088
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 89c05c1f-c198-4121-9c14-afe3c3e1cf4e
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 448036a5-0c46-4e0b-a106-53213d0ac565
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: a493c152-93b8-44a3-9d53-5440f84cb256
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: f98f54e6-a5ac-4ad1-a95c-c92cb0e6ad2b
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 0328aff6-636c-47f5-a9f9-2cab8a7b0127
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 60d8c74d-922e-4af8-9763-26b15e34c832
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 269498c4-6840-4bea-ad49-51fef0f9e556
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 77b2aba8-8c42-4ce2-975d-e26bc59a0ecc
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 44f1b2ce-936e-4479-b02a-fad008c5a4c2
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: cc316c95-c6cb-4f08-8101-7b78b336b18b
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 03df1863-a1ae-4e10-a806-fe7976f61246
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: ddcd6415-93b1-41ce-bb79-f6dee8102de2
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 131b01e6-a150-4fd6-b33e-93c61997362e
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: f0757c8f-7285-425a-964d-e2c5c8a062dd
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: b51e3c2f-5550-44c6-809f-8952117da32c
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 7c631bfa-ea71-4736-934a-8386b0e9a084
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: f35ca1b5-663c-489e-9b35-befb72c31adc
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 0c14f09e-c674-4330-a38b-e704c2c5b718
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 3f14a5bf-19fe-40b8-9a8a-59749dee4a66
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: ed944603-5cf1-496a-8c13-3d14a24a17fc
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 12e56f14-98ce-4d61-bd79-3b05ae8590a4
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: aa8422b7-dca5-4deb-af3d-588305a01466
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: b109f63f-757a-4667-af71-83f77a59e850
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 67627ddf-c6a7-488d-b9ff-e269420ac529
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 3b89f558-5868-4c60-bd75-f235ea389e72
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: a6a38867-3b37-4eaa-b4f6-dfc31c511107
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 15a672b9-249c-4a6f-ad0e-8274d9948b17
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: b21fd15c-c6bd-41a4-a79c-fc38e896782e
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 61b1cec4-e161-4be6-846c-fede1f954ef9
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 26bc6812-909b-4b65-ae93-6ebeced91d91
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 66c27ce2-0c08-4890-96f3-14ca6733ac73
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: dd4ac5d0-8290-45a1-bbd5-54bd2b9d6d6a
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: bbe4c6af-5d38-42e5-acac-a0ab921e089a
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: b0b6a613-7b5e-4a51-b8f7-c9721ec3a5fe
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 539a4f89-a996-4e98-98da-1190ab03799a
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 80c3c302-e9be-40f4-8724-a7157a1bbbd3
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 2fa521bb-b3f9-489a-842e-35b7c1ca57ba
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: ff65159d-e508-4028-b766-86b3fda61c22
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: abec83e6-af6d-4e1a-ae60-3807de377da7
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 73680386-082a-4ce3-a5a7-2c142ad6a563
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: adaf9280-9ccd-4446-bd0b-435ffbfcc8f7
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 2328c85a-d80a-40db-b976-5ac69ed802dc
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: ec681704-3cf0-4788-a113-7e3c3d7832ca
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 8b9f9d56-1bb1-4c8f-9aca-77c4a2e414a4
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: c7fdd30e-c0fd-4d23-b3ff-e2d40fd909cd
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 1459e7fc-b5fd-44e7-bb66-497aa2083e2d
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 7bcdac7c-1627-4c13-8184-c560982320e6
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 6062bc3e-13dc-42bd-8838-662159ae5eee
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: c7d015f2-7336-4012-a832-02c6de72037f
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: dd7768eb-8b73-4f24-abeb-96fa1963f115
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 1187d044-4a82-4ac2-9d71-dd9249679e4b
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 3ccd10fd-8389-4e2d-b795-c3af5b9d7596
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 34665beb-f4be-43fc-98c5-c0fe6be2a4ad
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 58163f66-ed49-43e0-8d5c-cd3f72989665
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 745a9b58-4afd-4e3a-8f6e-77d84f850b27
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 044ad2f3-a2eb-487b-9a8a-1480518b4f99
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: fd6479bb-8c4f-4797-b652-0f411c910912
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 57be61aa-1388-4513-bb7c-b1d5c408bb62
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 549383c6-7180-4257-9d85-6d633eb6acde
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 190b8b95-bea4-45dc-8bcb-a3b56018e699
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 3020f0b0-486f-4fda-85b1-ab84dbf856cf
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 1fb393b9-84f1-4099-8081-75a57c35d842
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 3f06e9c4-e7bc-46c4-8cbc-75016c6ded10
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 9b6109bb-e7a8-48e8-9098-b97e76d0a737
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: b367b04c-8cc3-4e8a-b92e-4ed0428dce94
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 953f2ea6-ec5c-49f9-a8aa-693cac4db572
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 4eea11a9-0c74-4a34-bc8e-7b81e6163098
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 4701845f-ff26-44b6-a81c-9417ccbb6665
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 09d79802-810b-43ad-a17f-43bcf4f93742
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: e508b1f2-4cf6-467f-ab17-0cfd4fe4e0f6
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 3ff73ed4-b103-405e-b5c7-10cd1097c0ca
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: c8a29f9e-c948-4e0d-a3f2-c887d6f9be87
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: d2a4e22c-d11c-46aa-a203-64895ae5fc3a
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: e47e9a1e-f1c1-41ec-9740-772572314db0
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: af8c6a3d-f66d-49b1-afc4-dad66353ada6
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 35d73e7d-537d-435a-a8a9-12bdb54fa4ee
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 5c60fdeb-c9bb-4a4d-884e-5197a8b98562
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: d1e7fb58-09da-43ca-b41b-57e74f5783b5
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: a0314c64-d3aa-40c5-8a39-891d6e7eda5c
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 0af2a108-11e2-4b3d-a946-fc0411732b40
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: eed738ea-f260-4cac-a84b-5412f5369de6
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 1612fd8b-42a5-4f91-9373-a5b5a2d089d0
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 8167afb5-70da-4482-8542-3421a6f20ccb
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 9d6b5e1a-4a88-4e6b-a099-8491534cf7fa
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: f0c8fa62-b232-4fab-a934-762f46d92f86
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 5689b28a-7b80-40f5-b9f9-6cdee857f152
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 2164e6a7-7d4e-4509-9347-70e356e6cb02
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 20164fe0-3563-41a4-b55e-311b3d58bc25
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 768671d7-03c7-48a5-a5a1-35db114d4423
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 6da9edc8-9a98-46b9-ae6c-de4de8716563
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 5568b21a-8555-4e8d-87a7-a2137551b82c
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 62be1d66-2348-4d0d-8194-6a46f46057c0
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 82e252b7-4928-42c0-9de7-87fa9b0da56d
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 393e75f1-e71b-4f71-bb6a-faf6f2d97edb
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 234de4a2-72ef-47aa-85ef-65af29ac78aa
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: bdf55c84-b7db-4e51-908d-b34351a3c7f5
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 279768b1-1c24-47aa-981a-d4fcb9027ec9
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 93074880-610f-4918-b955-4272f414a940
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 46704f5a-5511-45a7-beb2-532162794e92
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: c31f1a83-f48b-40a5-b909-48132253e6bc
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: a1295cf9-db7a-434b-90b2-8d04bac20862
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: b8cb9173-f9df-4b8a-9048-bc5fb4760662
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 67af0cf4-9353-44da-b7aa-1ad114213435
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 9b54d26a-9df3-420a-a4dd-c4326d248ad1
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 770219e4-2be0-4a60-9b88-3c447991bc90
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 3af00bbd-d564-4fa0-b9b8-c9316d2baad4
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: ceedc19b-c0cc-4b14-aef2-af69485bef9e
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 0437bff7-5004-4bff-916c-a26518cd7cf8
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: c1295be5-1e91-4287-8b77-cf893055ab3c
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 8fb11334-4369-4eb1-b3f2-bd0557e90d45
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 9536f16e-f830-4af3-9234-44753421bcfa
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 9b03fc03-2ef0-48cb-ab66-882d9c4c1772
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 90eb7211-4b86-462b-87ad-d51b1fe9135b
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 84194621-9e97-4c23-96d8-61389b25b98a
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 5d8d1cbb-5466-4d66-bc1f-8de95761e42f
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: a3ec34af-4a15-4044-8985-782271cb5938
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 1e42c5ec-119c-45e7-97c8-b971a3384e71
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: ba8fad4b-4056-47f2-9b57-5f5bf2a0cc8b
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 06c52c2f-4b17-4b35-8d8f-a9102273fcc4
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 89418b13-c5bd-4122-ac2e-0a4dc1a05748
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 941251d9-57b5-45b2-af52-0f6d3293a373
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 2c92e913-2aa2-4851-a1de-1af7c2944c20
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: f944970e-8e79-45e4-9a5f-3830a5439f80
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 290d62fe-c31a-4e8f-9fcd-6fe8d2552c99
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 355d4560-9e95-4b95-b318-807ca6e1d7bc
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 0b182c85-b607-474c-a5c0-7d6de414dc02
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 9ae10986-69a6-436f-86d4-ed8ebb249bd5
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: f8cf22ec-0673-4318-a22a-1865849e497d
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 854f92a6-e277-4e2d-b262-87f4ec5c2808
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 83beb0dc-6005-4dfb-9428-107b596a6db9
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 0f20921c-c7fc-4974-81e5-5488c414c435
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 5c549938-5c13-4a40-89c0-6207ffc4d0bc
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: f191daaf-f902-469e-9e71-1d85945a554e
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: a8f72f01-68cc-45b7-941b-552447ef56de
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 155d1696-7d05-4357-99de-96ef7d09d60f
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: fee920eb-bc42-4b77-8f7f-eaa1ec29b2e3
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 79a0621b-0c47-498d-9113-738068c073ac
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 3943040d-8a6f-4b38-ba2b-4226c8f6c542
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 6d75e874-0656-43a6-be19-5633b5d171dc
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 2b884d1f-387d-404e-9d62-0a3878e76b34
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: a9b67aac-c8d0-4b70-a04e-766ed9a4ebb9
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: a84509e3-3db1-4256-b38e-c7cc4e999d45
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: ff4fdea2-9bc2-4e3d-b8ea-1b350a68c9f3
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 9284f056-b40a-4345-8997-b269aecd1a9f
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 6e4bb138-4738-4eb0-b23a-624d11c2d8dc
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 7a74e152-da21-49d6-a90a-d10eeb721234
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: ff0884e3-d91b-407e-a3c4-938376728fed
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 2f3ae272-0408-41e9-90bb-430b7f852cbb
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 554d6546-fb57-485e-9dcb-5c6f759392d1
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: f1d19c51-eff8-4cd8-81f8-13ab64dce23b
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 694717d4-203b-40be-8d18-c9b65ee50c54
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: c9c11839-7a8f-43da-9f34-adae26b797e1
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: e7fb3ef2-f220-4e05-86cf-784b3b151ce1
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 5dd52e66-04c5-4545-b01a-7b07ab869b32
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 01cb8e10-ad3f-435a-928a-bc33c49ff5a7
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 6e52f479-538b-49ec-aa7f-2e4f78353cc0
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 1e68d649-4766-447d-811e-8cf4b24c09f1
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 5a4e5b12-8437-47b7-bb6a-d0d24105e80a
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: ea9dcfbb-c13c-4abb-a837-6328a9d3d90c
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: cffb472e-cbf5-4077-863c-fcd5207b5633
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 5d1a02f3-8160-4be2-8bd2-b8e443986b2c
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: dc98b65f-d23e-4b31-af54-9113e5724bdb
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 4ff6a05a-884e-4d61-825d-f006fc999031
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 1dc205b3-a658-4534-8d14-977da0c65b69
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 63b7e671-f5b8-4744-8c35-b7b8ee11e587
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: d02dec81-e547-4d46-965b-aa23d9048242
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 8e90cdf5-efa2-41eb-b6a6-f9cd4c13b837
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: fb6bdb6e-3f68-4a22-91e7-885f9ef5c31c
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 6c52c2ba-e728-47b1-a036-62a88952f3c8
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 73faf0c5-0736-4176-8c61-69e131f76c92
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 46eb58ca-8386-47b1-a3a7-67ec39eea108
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 094596ce-61c3-4240-abe5-bdc8e2894b80
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: a72e11ee-de18-414e-8652-7bc0ffe30c0e
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 7131568e-221c-4c2f-9e6e-a3332111ccb6
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: c00fbaef-ac3f-4b78-b458-d923ae8837be
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 32bd0030-f572-494d-b1e3-3af09b38e9e5
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: b595f1b7-91bb-49f5-9c68-da39742a2770
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: a7401c97-981b-4cae-a8f5-984a8d5c321f
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: ba15b522-5160-4824-9286-c3d4c9e41743
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 9c225701-62d9-48ed-b854-4f59a7dfa5e6
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: a37ff3b7-8b20-44bc-8959-43d9ab6da9ce
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: a3fa274a-bcfc-4ae2-a929-797008893ea6
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: dd480399-f85a-44c3-b171-4856424529ef
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 1d27c3ef-35ba-46b3-8ae2-09dcc7ed4f50
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 2f9863c8-d728-4a72-968d-07290f167877
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 7844b225-3fdd-43f2-b777-4b52e3d32c41
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 4a31a546-d141-4ae4-aa50-b2a358d6a96d
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 1bb75a80-4b79-4a25-b0c3-5baecb0af639
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 93c3852a-faa0-40a6-b9af-a73cae32604a
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 0e6c85d4-408d-427c-a3e7-c6d0494f79a4
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 0d149630-922f-470f-8657-b6c99240b7a0
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 3e7d8abf-fb03-4f63-ab86-59f1912dc9d6
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: ecb72fde-0418-414f-b00c-05aeabb6f74e
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: ed2a78d8-d65b-4692-b982-4c32b4e6e23f
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: e17421b5-e18b-4086-89ed-6509e1a46da5
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 973b770a-4587-4132-a704-51a0c160fb95
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: b87fea15-a2d8-4371-917f-ce53492e2cab
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 773d5c96-d370-4332-a006-73b00c3095a9
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 7e5610c7-bac1-42e2-b3bc-337e3bc1a14c
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: c44ab094-7223-4455-a0da-7492eb50f54a
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 561d8426-a84c-470e-ab13-ef2a561a34b7
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 7b7bce0d-1ecf-4966-ae72-663afb4d4fb0
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 67ff5a4e-5d87-4579-8430-0f9ed0b384c8
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 499bba47-2257-47af-bc98-e32cdc3a72e6
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 7c1ae6c7-eac3-43dc-bfa3-d83701394636
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: f5878879-1b8c-48b7-ae7d-97779d5c393e
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 56a849f6-edf0-40d4-86c7-c10accfb969f
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: ac7bd506-dc1e-42bb-a76e-aa45ff788701
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 90b79166-74d9-4bc7-a3c2-33b7ce0558dc
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 56eb03c7-e974-4529-8755-bd7f5e815306
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: edf90ec9-4e61-41f3-a235-d61a5f32cbe4
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 2e48f4d9-95c0-41a6-8f88-178e3486b475
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: d3f3a45d-faf2-4483-8bad-83d0185a11e5
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: a1a17215-887a-4737-ad2a-4d883bc5f1ee
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: be68c05b-ad30-46ac-92ec-24d995be6392
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 1db4595c-3560-4fd9-8838-baf71c58265a
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 6f692284-b0da-4f81-a64a-0d9958e30c49
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 157c2021-5efe-4cc0-aac2-963f3c945981
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: b399096d-b862-4123-adeb-c62571579700
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 53fee7c7-0af1-4025-914f-67ce28857555
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 79637c18-931b-4178-9301-121e639dc155
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: b467149d-52ed-4d8c-a8ea-22dd9870517a
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: d2359d4e-b023-4491-b4d4-a7b639ed19bd
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: d39e688f-0499-492c-8824-b703e38583f8
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: c769bf92-7906-4f55-aab2-994feffa51ea
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 2a5d8a07-5366-4229-ba2b-0c85ff3d9c68
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: a2f98d28-db8c-45d7-ba53-77c97b47fb7d
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 325d9b8d-025d-4cb1-9a6d-20a8684da6bc
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 25d6dcd5-9f7d-4217-a70d-ee7ab3269069
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 4ec85e01-995c-4bc2-9aab-fe4fe04544f1
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: d57fd51d-a1f3-4a0e-8a76-7a61d956e8bb
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 72c7962e-f269-47b6-9b03-b30eab4ebfc8
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: cd268d5c-d078-469a-8522-a3d81472d1f4
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 29b5fe79-ffc6-4894-af30-650a144fe1bf
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: fd8e2e50-9d28-4488-b5b8-0b659169e8a5
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 8fef7bb5-3413-4462-9fd1-b9d02e19e735
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: eda1ffe2-c907-4b69-b228-b3f964db6c23
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 7a80e660-002e-4ba4-911f-f879f5c9b207
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 3e71da41-423a-4db9-8700-899a44ce1eb4
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: d4dc8d10-c35e-483b-bf0e-dfa6f145df43
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 2d2ce929-2e2c-4616-9a67-0369131a04e2
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: c33d56b6-f6d6-4bf6-8891-2ef496a58ab5
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 8d7df6b6-99b8-4bae-8f9c-583af40f9a84
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 7dbc7922-bd68-4f02-bc32-1565e15c84a8
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: e2410620-8d02-4d77-944f-3d9db75565ba
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 9afb5d65-23b3-4e07-a729-98e2d50828a8
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 5f60b1ca-4959-46d3-bda3-7658d1d2a236
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 47140e1c-21f8-4a4b-a1d3-9f4c23ea364a
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 7767cad1-42b0-41f7-9f6f-cb834b8fe474
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 922b38bc-4e51-4a3e-b984-20b7f43d7740
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 6ac0dd9d-6e72-41c8-a14c-520db6c87e0d
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: c028e31a-02b7-41af-9de8-caf3d5ef5377
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 71a25065-7225-4b05-93f5-1ce1400a46d8
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 52cb003e-ddf7-48fd-82be-a21e3828ee40
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 0982b412-82a6-4bff-b795-de09c0c4492b
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: cd0226ff-a945-485a-a873-d5407ceaa684
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 6657989b-b6d8-45a4-b5b0-a9e6fe413afb
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 9d782d84-d6e7-4cba-b78c-d27cadf66f3c
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 6001854b-034b-4429-8856-3e3dfdf32425
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 198b4498-467b-46f7-8411-79f5e5565fc2
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 8bea8aff-d839-4d80-85aa-2f493099f57f
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: befefe1a-1051-4f42-862a-2c6757851c57
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 400d8abd-417c-4d83-8efc-b12595bf0b1c
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: eedc49ea-4fdf-4bf2-843a-5dec351d1459
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: ccc08fd3-a23b-4072-a3f4-5fc24fc693db
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 8069ca4d-301a-4675-ab83-6bccd3d71f53
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 16bbb620-6e29-4224-9f2b-0d4367623cd6
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 7b1dcdb1-8d5d-448c-85fc-8bc05d4f026e
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: e8847c47-8aeb-400b-9655-1af18738ff5c
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 1952373d-ac80-441e-91c7-433931ef3a74
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 1825d0a8-1ac7-494e-9eaf-0f51b9617442
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 7d2d738a-f1bf-4303-bc43-e5d771b0a6f5
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: ea2200c6-735c-4e64-8a55-bdefe548356e
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 3b254e1d-3ed6-43a2-9a0c-a8dfca2be765
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 52e7332b-efea-4d9c-a818-499d57d9e04b
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 548ff527-a74d-411d-8049-3eaadaf7e1aa
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: d19a3d11-b8f6-40aa-ad44-d571ebf17281
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 7f7826b5-923d-4249-a346-9efc1b476e1f
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 609fd6f7-4742-4b6e-b626-1012d7b3a348
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: db28a5c9-63f0-4c39-aea2-ba6deafa4ab0
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: f8e25479-81e3-40a6-b5ce-cd71b509ed6e
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: d7f14c9b-9aea-4c70-a98f-cd47597701c4
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 163779bf-aabc-4b31-9a06-5a11a057e779
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: ad21c80e-9e53-46ff-b300-48d049e8c25f
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 6d71e5bd-7a09-4c49-aba8-2d09945320bc
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 6f270be3-f36d-4c74-9ada-714adb6194d9
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 97bdab06-6b81-4c55-bdaa-22570712a935
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: c782e6b6-286d-48e2-afa9-ec43227c99fa
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: c015f136-638d-4fb8-b034-c9b8a22a8a6d
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 57bfed81-9795-4e99-9282-1ae4a193e497
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: df980483-c148-4190-b457-13bf2fc48ba8
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 96b57a30-40da-4561-a6d3-0c5560a3bd15
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 7c752082-0e4f-4598-9922-4dea245140d9
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 4a978595-67be-4c07-ad17-6294afadeafd
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 147052c9-1e0e-4e3a-8ad6-750a4fdc5a1f
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 2d521162-bcd2-46e9-9439-f831325b8374
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: a09627e5-8d1e-4406-bf34-7590b0799dab
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 864b0306-7cd5-44c0-ab93-ad8854de4193
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 6583ac58-dfd0-4487-a34f-275ae7532e47
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 402c913d-b5a8-4cdb-91ef-b7c3b0c2c0a0
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: b16dd909-368a-45cf-89bf-ff0c00888d04
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 3947b80b-28f2-4e66-a584-958856768c4b
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: adc1dee2-8538-4c27-87a3-10ffd823cd88
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 2dd019dd-44c5-448c-961a-641ca177baf4
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: da277475-dc3a-464b-908d-8446308e046d
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: afc9a3b4-c0eb-4039-b13d-b543d7644c39
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 601e1389-e789-4c7d-bf09-75faa31a2749
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: e088f5b4-6040-4595-a636-3ed5ce68058f
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 143f97b6-7cb7-429a-b74b-e1e0bd05e28f
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: ecf86e5b-a7bb-4ec8-b1b2-9eb36d3f7f0e
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: dc99ab71-183a-4e63-9584-5ec3a19c02e2
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: aa4c9cf8-a928-4a5f-ae95-219684370482
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 9405cb8a-962c-4af0-bd0c-b8c9031e339b
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: dfe559d9-e773-4fdf-96fe-c31f82b602d2
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 6a6e9a54-cab6-4d87-9fdf-7f085492e344
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: f3817137-45fa-488d-b8d0-a3a18ee89328
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 7bb5308f-10c6-41dd-9898-67f50bcb0ffb
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 5ff25703-c37c-4829-ab3f-51720efd11f6
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 702ca0af-0112-4539-b8eb-b02fe4005160
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 71997c35-d871-42e0-ac35-0445aa45b20d
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 6881f210-a420-4fad-b4b4-f17481ed4ac0
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: cce4f31d-10af-45f8-b94e-59fb83b27d31
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: e9d74f8d-c432-4962-8d10-36a802070a40
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: a32f012b-f51d-4d1b-9b24-9799d6c3436b
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 931f9538-fa8a-4778-a78e-d857cf7c0df8
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 3e16a155-164c-4ad5-b08c-342f64a9d5ff
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: b8809818-8ef1-461b-aea5-1c82da788eb2
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 3369e3b8-0cd1-49d9-91d1-146aac25e0e5
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: bef014df-2ada-49ee-aa3e-12b7e4bdfe08
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 5135f7b7-833d-4ac6-a07c-e7aee32c52b2
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: c8af8465-ad53-414d-bc65-5120541a9096
   access_code_id: 02395673-9cda-49fd-bcf3-aecb98294987
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 90774ec6-300b-40a0-9c24-e629ab47a4c0
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 4322b332-ca50-4088-9024-05617f835757
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 
 - id: 247cffcb-5300-44aa-a7fb-0962739db137
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: 1a19ea43-1aa3-4c7c-9e47-6d87a4ecd4e3
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: f48d4c2a-de4f-4e31-9270-c4d5ecd4badf
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: False
 
 - id: 1da61525-d639-4b62-b52b-120a03c70fbe
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: ff5e8181-d018-4135-8385-a7b97dd43812
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: 77c78ba6-3e9f-44e0-8dcf-44f19864b27a
   access_code_id: ed4d0ebe-b4ec-490d-94d8-10c82beef7c9
   coach_id: 0cb1a6f8-d13c-4ef7-a4be-a4c62b9c8367
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: True
 
 - id: ea5bab15-891f-4810-b10d-f670acc004d3
   access_code_id: cb3a7494-e478-4c49-8ab9-a2d45f94be7b
   coach_id: 78ebbc8f-36bd-4d31-b33d-12efe9f23034
-  is_agree_uprise_emails: False
+  is_agree_emails: False
   is_agree_terms_conditions: False
 
 - id: b8cf6e5e-fd02-4117-adc2-10f08457a5ad
   access_code_id: 1d0a623b-0927-4b58-9474-1961348c52ce
   coach_id: 17a5f59c-38f1-4d88-a7aa-f5c2da5e30dd
-  is_agree_uprise_emails: True
+  is_agree_emails: True
   is_agree_terms_conditions: True
 

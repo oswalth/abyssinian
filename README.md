@@ -3,10 +3,12 @@ A test api application created for improving skills with the following stack:
  - FastAPI
  - SQLAlchemy
  - Alembic
- - Github Actions
+ - GitHub Actions
  - AWS (ECS, S3, CloudFormattion, Cognito)
  - Terraform
 
+## System design
+![Alt text](https://felis-diagrams.s3.eu-central-1.amazonaws.com/AuthService.drawio.svg)
 
 ## Requirements (Prerequisites)
 

@@ -61,7 +61,7 @@ def upgrade() -> None:
     sa.Column('id', models.base.GUID(), nullable=False),
     sa.Column('access_code_id', models.base.GUID(), nullable=True),
     sa.Column('coach_id', models.base.GUID(), nullable=True),
-    sa.Column('is_agree_uprise_emails', sa.Boolean(), nullable=True),
+    sa.Column('is_agree_emails', sa.Boolean(), nullable=True),
     sa.Column('is_agree_terms_conditions', sa.Boolean(), nullable=True),
     sa.ForeignKeyConstraint(['access_code_id'], ['access_codes.id'], ),
     sa.ForeignKeyConstraint(['coach_id'], ['coaches.id'], ),

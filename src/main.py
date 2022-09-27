@@ -8,7 +8,7 @@ from sqlalchemy.orm import Session
 from starlette.exceptions import HTTPException
 
 from config import get_settings
-from dependencies import get_db
+from dependencies.db import get_db
 from routers import api
 
 

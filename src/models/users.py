@@ -56,7 +56,7 @@ class Client(UpdatedAtMixin, Base):
     access_code_id = Column(GUID(), ForeignKey("access_codes.id"))
     coach_id = Column(GUID(), ForeignKey("coaches.id"))
 
-    is_agree_uprise_emails = Column(Boolean, default=True)
+    is_agree_emails = Column(Boolean, default=True)
     is_agree_terms_conditions = Column(Boolean, default=True)
 
     user = relationship("User", back_populates="client")

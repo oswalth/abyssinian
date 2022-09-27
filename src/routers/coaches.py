@@ -1,11 +1,14 @@
 from uuid import UUID
 
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Query
 
+from crud.base import SORT_TYPE, ASC
 from crud.users import user_crud, coach_crud
-from dependencies import get_db
+from dependencies.db import get_db
 from sqlalchemy.orm import Session
 
+from schemas.query import PaginationQuery, CoachFilters, CoachSortQuery, CoachSearchLookup, CoachesResponse, \
+    PaginationResponse
 from schemas.users import CoachCreate, Coach
 
 router = APIRouter(
@@ -15,10 +18,33 @@ router = APIRouter(
 )
 
 
-@router.get("/", response_model=list[Coach])
-def read_coaches(offset: int = 0, limit: int = 100, db: Session = Depends(get_db)):
-    coaches = coach_crud.get_many(db, offset=offset, limit=limit)
-    return coaches
+@router.get("/", response_model=CoachesResponse)
+def read_coaches(
+        pagination: PaginationQuery = Depends(),
+        filters: CoachFilters = Depends(),
+        search_value: str | None = Query(None, title="Search value", alias="q"),
+        search_lookup: CoachSearchLookup = Query(CoachSearchLookup.first_name, title="Search lookup", alias="lookup"),
+        sort: CoachSortQuery = Query(CoachSortQuery.first_name),
+        sort_dir: SORT_TYPE = Query(ASC, alias="sortDir"),
+        db: Session = Depends(get_db),
+):
+    coaches, total = coach_crud.get_many(
+        db,
+        sort=sort.name,
+        sort_dir=sort_dir,
+        filters=filters.dict(exclude_none=True),
+        search_lookup=search_lookup.name,
+        search_value=search_value,
+        **pagination.dict()
+    )
+    return CoachesResponse(
+        coaches=coaches,
+        pagination=PaginationResponse(
+            offset=pagination.offset,
+            limit=pagination.limit,
+            total=total
+        )
+    )
 
 
 @router.get("/{coach_id}", response_model=Coach)

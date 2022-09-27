@@ -5,7 +5,7 @@ import yaml
 from sqlalchemy.orm import Session
 
 from core.security import get_password_hash
-from dependencies import get_db
+from dependencies.db import get_db
 from models.users import AccessCode, User, Coach, Client
 
 
